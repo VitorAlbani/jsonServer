@@ -1,4 +1,14 @@
-{"brand" : {
+{"brand" : [ {
+"_id":"5e45527fd9fabe18bcda9a9a",
+"sql_id":"167",
+"name":"ACURA",
+"principal":false,
+"slugged":"acura",
+"tenant":"76",
+"active":true,
+"vehicle_type":"1"
+} ],[
+ {
 "_id":"5e45527fd9fabe18bcda9a9a",
 "sql_id":"167",
 "name":"ACURA",
